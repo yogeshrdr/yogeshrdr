@@ -67,6 +67,6 @@
 ![](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshrdr&show_icons=true&locale=en&layout=compact" alt="yogeshrdr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username={yogeshrdr}" alt="yogeshrdr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshrdr&show_icons=true&locale=en" alt="yogeshrdr" /></p>
