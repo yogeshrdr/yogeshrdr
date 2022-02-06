@@ -2,8 +2,7 @@
  -->
 
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
-<h3 align="center">A passionate full Stack developer and Programmer from India</h3>
-
+<h3 align="center">MERN STACK AND SOFTWARE DEVELOPER</h3>
 
 - 📫 How to reach me **yashrdr11@gmail.com**
 
