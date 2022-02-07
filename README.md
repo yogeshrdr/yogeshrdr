@@ -79,13 +79,18 @@
 
 <br>
 
-<a href="https://github.com/yogeshrdr">
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yogeshrdr&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshrdr&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <a href="https://github.com/yogeshrdr">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshrdr&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/yogeshrdr">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yogeshrdr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yogesh's GitHub Stats" />
-</a>
+</a> -->
 
 <br>
 <br>
